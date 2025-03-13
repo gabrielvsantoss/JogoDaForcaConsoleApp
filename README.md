@@ -1,5 +1,5 @@
-![](https://i.imgur.com/GHpszOY.gif)
 **Jogo da Forca**
+![](https://i.imgur.com/GHpszOY.gif)
 
 **Funcionalidades:**
 - **Interação com o usuario:** Permite o usuario de tentar acertar uma palavra sorteada pelo sistema.
