@@ -1,14 +1,14 @@
-#Jogo da Forca
+**Jogo da Forca**
 
 ![](https://imgur.com/RyW9d6R)
 
-#Funcionalidades:
+**Funcionalidades:**
 - **Interação com o usuario:** Permite o usuario de tentar acertar uma palavra sorteada pelo sistema.
 - **Contagem de erros:** Consegue contar os erros do usuario.
 - **Sistema de Vitória ou Derrota:** Consegue descobrir se o usario acertou a palavra ou passou dos 5 erros permitidos.
 
 
-#Como usar
+**Como usar**
 1. Clone o repositório ou baixe o código fonte.
 2. Abra o terminal ou o prompt de comando e navegue até a pasta raiz
 3. Utilize o comando abaixo para restaurar as dependências do projeto.
@@ -33,5 +33,5 @@ dotnet run --- project JogoDaForca.ConsoleApp
 JogoDaForca.ConsoleApp.exe
 ````
 
-#Requisitos
+**Requisitos**
 - .NET SDK para construção e execução do projeto.
