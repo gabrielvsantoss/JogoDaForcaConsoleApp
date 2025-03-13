@@ -1,4 +1,6 @@
 **Jogo da Forca**
+
+
 ![](https://i.imgur.com/GHpszOY.gif)
 
 **Funcionalidades:**
